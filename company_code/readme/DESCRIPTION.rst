@@ -1,2 +1,0 @@
-- add `code` field to company.
-- update name_get with this field
